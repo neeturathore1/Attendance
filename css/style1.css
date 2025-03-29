@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.homehead{
+    background-color: blue;
+    padding: 20px;
+}
+.homehead > h1{
+    text-align: center;
+    color: aliceblue;
+    margin: 25px;
+
+}
+.homehead > h2{
+    text-align: center;
+    color: aliceblue;
+}
+#name{
+    text-align: center;
+    padding: 8px;
+    font-size: 20px;
+}
+.title {
+    background-color: antiquewhite;
+    margin:20px;
+}
+#username{
+    text-align: center;
+    padding: 8px;
+    font-size: 20px;
+}
+.title1 {
+    background-color: antiquewhite;
+    margin: 20px;
+}
